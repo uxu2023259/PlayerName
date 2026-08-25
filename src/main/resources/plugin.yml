@@ -1,0 +1,12 @@
+name: NameTagSync
+version: 1.0.4
+main: cn.hyx.playername.PlayerNamePlugin
+api-version: '1.20'
+load: POSTWORLD
+author: hyx
+description: 轻量免配置的玩家头顶名牌同步插件，自动显示 LuckPerms 前缀、玩家名和后缀
+softdepend:
+  - LuckPerms
+  - PlaceholderAPI
+  - PlugMan
+  - PlugManX

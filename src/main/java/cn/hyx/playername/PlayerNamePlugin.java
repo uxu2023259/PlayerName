@@ -1,4 +1,4 @@
-package cn.hyx.playername;
+package awa.uxu.hyx.playername;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

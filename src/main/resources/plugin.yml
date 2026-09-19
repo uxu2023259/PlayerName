@@ -1,6 +1,6 @@
 name: NameTagSync
 version: 1.0.4
-main: cn.hyx.playername.PlayerNamePlugin
+main: awa.uxu.hyx.playername.PlayerNamePlugin
 api-version: '1.20'
 load: POSTWORLD
 author: hyx
